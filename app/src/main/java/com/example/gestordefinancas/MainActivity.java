@@ -18,6 +18,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.util.ArrayList;
 import java.util.List;
 
+// Nome: Lucas Eduardo Pereira da Silva Junior. RA: 180332
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText editTextExpense;
